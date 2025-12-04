@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rustup override set:*)",
+      "Bash(cat:*)",
+      "WebSearch",
+      "Bash(grep:*)",
+      "Bash(wc:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
